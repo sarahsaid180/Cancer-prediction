@@ -23,7 +23,7 @@ The dataset is structured as follows:
     * **Malignant (M):** Indicating a cancerous mass.
 
 ## Data Exploration and preprocessing:
-* As the data features are numerical values, So I used the **correlation coefficient** to perform feature selection to reduce the feature matrix.
+* As the data features are numerical values, So I used the **correlation coefficient** to perform **feature selection** to reduce the feature matrix.
 * Encode the **Diagnosis** coulumn to 1 for M and 0 for B, to be used in the ML.
 * Creating a new dataframe with **only 7 features**, with the heighest values of correlation with the Diagnosis, and the encoded target vector.
 * Data size after all preprocessing is **35.7 KB**. 
