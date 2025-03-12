@@ -1,4 +1,4 @@
-# Cancer-prediction
+# Cancer-prediction-project
 
 ## Data Description
 
